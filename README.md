@@ -5,7 +5,7 @@ A static-site project demonstrating Git and GitHub version control workflows.
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/CSP451-CheckPoint1-AkshitArora.git
+git clone https://github.com/aarora128/CSP451-CheckPoint1-AkshitArora.git
 cd CSP451-CheckPoint1-AkshitArora
 ```
 
