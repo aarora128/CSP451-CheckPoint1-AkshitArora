@@ -20,3 +20,6 @@ Use feature branches and Conventional Commits (feat, fix, docs, style, refactor)
 ## License
 
 MIT License. Copyright (c) 2026 Akshit Arora.
+
+## Technologies
+HTML5, CSS3, JavaScript, Git, GitHub.
